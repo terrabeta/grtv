@@ -11,7 +11,8 @@
 }
 
 .body {
-    background-color: #333;
+    background: rgb(66,35,169);
+    background: linear-gradient(270deg, rgba(66,35,169,1) 0%, rgba(169,35,35,1) 100%); 
     background-clip: border-box;
     -webkit-text-fill-color: inherit;
 }
