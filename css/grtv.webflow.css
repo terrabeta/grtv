@@ -47,7 +47,7 @@
 
 .mega-strm-live-vid {
     box-shadow: 0px 0px 15px 0px #242424;
-    z-index: 10;   
+    z-index: 20;   
 }
 
 .alpha-strm-ttl {
@@ -92,7 +92,7 @@
 
 .skai-strm-live-vid {
     box-shadow: 0px 0px 15px 0px #242424;
-    z-index: 10;   
+    z-index: 20;   
 }
 
 .star-strm-ttl {
