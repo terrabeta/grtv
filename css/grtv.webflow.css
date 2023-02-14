@@ -54,7 +54,7 @@
     text-align: center;
 }
 
-.ant1-strm-ttl {
+.ert1-strm-ttl {
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #242424;
@@ -113,7 +113,7 @@
     display: none;
 }
 
-.ant1-strm-ttl-mob-view {
+.ert1-strm-ttl-mob-view {
     display: none;
 }
 
@@ -162,7 +162,7 @@
         text-align: center;
     }
 
-    .ant1-strm-ttl-mob-view {
+    .ert1-strm-ttl-mob-view {
         display: block;
         padding-top: 20px;
         padding-bottom: 20px;
