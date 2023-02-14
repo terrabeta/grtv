@@ -46,6 +46,7 @@
     font-size: 21px;
     line-height: 17px;
     text-align: center;
+    z-index: 500;
 }
 
 .mega-strm-live-vid {
@@ -62,6 +63,7 @@
     font-size: 21px;
     line-height: 17px;
     text-align: center;
+    z-index: 500;
 }
 
 .alpha-strm-live-vid {
@@ -78,6 +80,7 @@
     font-size: 21px;
     line-height: 17px;
     text-align: center;
+    z-index: 500;
 }
 
 .ert1-strm-live-vid {
@@ -94,6 +97,7 @@
     font-size: 21px;
     line-height: 17px;
     text-align: center;
+    z-index: 500;
 }
 
 .skai-strm-live-vid {
@@ -112,6 +116,7 @@
     text-align: center;
     background-clip: border-box;
     -webkit-text-fill-color: inherit;
+    z-index: 500;
 }
 
 .star-strm-live-vid {
@@ -128,6 +133,7 @@
     font-size: 21px;
     line-height: 17px;
     text-align: center;
+    z-index: 500;
 }
 
 .open-strm-live-vid {
@@ -190,6 +196,7 @@
         color: #e3b1d7;
         font-size: 25px;
         text-align: center;
+        z-index: 500;
     }
 
     .alpha-strm-ttl-mob-view {
@@ -201,6 +208,7 @@
         color: #e3b1d7;
         font-size: 25px;
         text-align: center;
+        z-index: 500;
     }
 
     .ert1-strm-ttl-mob-view {
@@ -212,6 +220,7 @@
         color: #e3b1d7;
         font-size: 25px;
         text-align: center;
+        z-index: 500;
     }
 
     .skai-strm-ttl-mob-view {
@@ -223,6 +232,7 @@
         color: #e3b1d7;
         font-size: 25px;
         text-align: center;
+        z-index: 500;
     }
 
     .star-strm-ttl-mob-view {
@@ -234,6 +244,7 @@
         color: #e3b1d7;
         font-size: 25px;
         text-align: center;
+        z-index: 500;
     }
 
     .open-strm-ttl-mob-view {
@@ -247,5 +258,6 @@
         text-align: center;
         background-clip: border-box;
         -webkit-text-fill-color: inherit;
+        z-index: 500;
     }
 }
