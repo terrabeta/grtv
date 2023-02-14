@@ -62,7 +62,7 @@
 
 .alpha-strm-live-vid {
     box-shadow: 0px 0px 15px 0px #242424;
-    z-index: 10;   
+    z-index: 5;   
 }
 
 .ert1-strm-ttl {
@@ -109,7 +109,7 @@
 
 .star-strm-live-vid {
     box-shadow: 0px 0px 15px 0px #242424;
-    z-index: 10;   
+    z-index: 5;   
 }
 
 .open-strm-ttl {
