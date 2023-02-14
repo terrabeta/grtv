@@ -45,6 +45,11 @@
     text-align: center;
 }
 
+.mega-strm-live-vid {
+    box-shadow: 0px 0px 15px 0px #242424;
+    z-index: 10;   
+}
+
 .alpha-strm-ttl {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -53,6 +58,11 @@
     font-size: 21px;
     line-height: 16px;
     text-align: center;
+}
+
+.alpha-strm-live-vid {
+    box-shadow: 0px 0px 15px 0px #242424;
+    z-index: 10;   
 }
 
 .ert1-strm-ttl {
@@ -65,6 +75,11 @@
     text-align: center;
 }
 
+.ert1-strm-live-vid {
+    box-shadow: 0px 0px 15px 0px #242424;
+    z-index: 10;   
+}
+
 .skai-strm-ttl {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -73,6 +88,11 @@
     font-size: 21px;
     line-height: 16px;
     text-align: center;
+}
+
+.skai-strm-live-vid {
+    box-shadow: 0px 0px 15px 0px #242424;
+    z-index: 10;   
 }
 
 .star-strm-ttl {
@@ -87,6 +107,11 @@
     -webkit-text-fill-color: inherit;
 }
 
+.star-strm-live-vid {
+    box-shadow: 0px 0px 15px 0px #242424;
+    z-index: 10;   
+}
+
 .open-strm-ttl {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -95,6 +120,11 @@
     font-size: 21px;
     line-height: 16px;
     text-align: center;
+}
+
+.open-strm-live-vid {
+    box-shadow: 0px 0px 15px 0px #242424;
+    z-index: 10;   
 }
 
 .live-vid-grid {
