@@ -41,7 +41,7 @@
     background-color: #242424;
     color: #fff;
     font-size: 21px;
-    line-height: 16px;
+    line-height: 17px;
     text-align: center;
 }
 
@@ -56,13 +56,13 @@
     background-color: #242424;
     color: #fff;
     font-size: 21px;
-    line-height: 16px;
+    line-height: 17px;
     text-align: center;
 }
 
 .alpha-strm-live-vid {
     box-shadow: 0px 0px 15px 0px #242424;
-    z-index: 5;   
+    z-index: 10;   
 }
 
 .ert1-strm-ttl {
@@ -71,7 +71,7 @@
     background-color: #242424;
     color: #fff;
     font-size: 21px;
-    line-height: 16px;
+    line-height: 17px;
     text-align: center;
 }
 
@@ -86,7 +86,7 @@
     background-color: #242424;
     color: #fff;
     font-size: 21px;
-    line-height: 16px;
+    line-height: 17px;
     text-align: center;
 }
 
@@ -101,7 +101,7 @@
     background-color: #242424;
     color: #fff;
     font-size: 21px;
-    line-height: 16px;
+    line-height: 17px;
     text-align: center;
     background-clip: border-box;
     -webkit-text-fill-color: inherit;
@@ -109,7 +109,7 @@
 
 .star-strm-live-vid {
     box-shadow: 0px 0px 15px 0px #242424;
-    z-index: 5;   
+    z-index: 10;   
 }
 
 .open-strm-ttl {
@@ -118,7 +118,7 @@
     background-color: #242424;
     color: #fff;
     font-size: 21px;
-    line-height: 16px;
+    line-height: 17px;
     text-align: center;
 }
 
