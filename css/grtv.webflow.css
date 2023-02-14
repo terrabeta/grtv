@@ -19,8 +19,9 @@
 .date-clock {
     padding-top: 40px;
     padding-bottom: 40px;
-    background-color: #1a1a1a;
-    color: #fff;
+    background: rgb(66,35,169);
+    background: linear-gradient(90deg, rgba(66,35,169,1) 0%, rgba(169,35,35,1) 100%); 
+    color: #e3b1d7;
     font-size: 44px;
     text-align: center;
     line-height: 35px;
